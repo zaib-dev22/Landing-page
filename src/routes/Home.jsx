@@ -12,7 +12,7 @@ import Icon3 from '../assets/Icon (3).png'
 import Updateimg from '../assets/Update.jpg'
 import Updateimg2 from '../assets/Updateimg2.jpg'
 import Updateimg3 from '../assets/Updateimg3.jpg'
-import Section from "../cgit push -u origin mainomponents/Footer/Section"
+import Section from "../components/Footer/Section"
 import FooterSection from "../components/Footer/FooterSection"
 
 const Home = () => {
