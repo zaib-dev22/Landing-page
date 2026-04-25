@@ -1,6 +1,6 @@
-import Navbar from './components/Navbar/Navbar'
+import Navbar from './components/Navbar/Navbar.jsx'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import Home from './routes/Home'
+import Home from './routes/Home.jsx'
 
 function App() {
   const navitems = [
