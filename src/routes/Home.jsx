@@ -1,19 +1,19 @@
-import Hero from "../components/Home/Hero/Hero"
-import Client from "../components/Home/Client/Client"
-import Community from "../components/Home/Community/Community"
-import Unlock from "../components/Body/Unlock/Unlock"
-import Achievments from "../components/Body/Achievments/Achievemnts"
-import Calender from "../components/Body/Calender/Calender"
-import Customer from "../components/Body/Customer/Customer"
-import Updates from "../components/Body/Updates/Updates"
+import Hero from "../components/Home/Hero/Hero.jsx"
+import Client from "../components/Home/Client/Client.jsx"
+import Community from "../components/Home/Community/Community.jsx"
+import Unlock from "../components/Body/Unlock/Unlock.jsx"
+import Achievments from "../components/Body/Achievments/Achievemnts.jsx"
+import Calender from "../components/Body/Calender/Calender.jsx"
+import Customer from "../components/Body/Customer/Customer.jsx"
+import Updates from "../components/Body/Updates/Updates.jsx"
 import Icon1 from '../assets/Icon (1).png'
 import Icon2 from '../assets/Icon (2).png'
 import Icon3 from '../assets/Icon (3).png'
 import Updateimg from '../assets/Update.jpg'
 import Updateimg2 from '../assets/Updateimg2.jpg'
 import Updateimg3 from '../assets/Updateimg3.jpg'
-import Section from "../components/Footer/Section"
-import FooterSection from "../components/Footer/FooterSection"
+import Section from "../components/Footer/Section.jsx"
+import FooterSection from "../components/Footer/FooterSection.jsx"
 
 const Home = () => {
   const Cards = [

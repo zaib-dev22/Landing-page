@@ -1,5 +1,5 @@
-import LeftText from './LeftText'
-import Rightcontent from './Rightcontent'
+import LeftText from './LeftText.jsx'
+import Rightcontent from './Rightcontent.jsx'
 
 
 

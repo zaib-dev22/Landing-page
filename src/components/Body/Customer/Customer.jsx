@@ -1,6 +1,6 @@
-import Righttext from "./Righttext"
-import Leftimg from "./Leftimg"
-import Sectionlogos from "./Sectionlogos"
+import Righttext from "./Righttext.jsx"
+import Leftimg from "./Leftimg.jsx"
+import Sectionlogos from "./Sectionlogos.jsx"
 
 const Customer = () => {
   return (

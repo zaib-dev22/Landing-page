@@ -1,7 +1,7 @@
-import Toptext from './Toptext'
+import Toptext from './Toptext.jsx'
 
 
-import Card from './Card'
+import Card from './Card.jsx'
 const Updates = (props) => {
   return (
     <div className='h-[75h] bg-[#ffffff] '>

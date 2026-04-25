@@ -1,5 +1,5 @@
-import Text from './Text'
-import Cards from './Cards'
+import Text from './Text.jsx'
+import Cards from './Cards.jsx'
 
 const Community = (props) => {
   return (
