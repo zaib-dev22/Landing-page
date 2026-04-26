@@ -1,10 +1,10 @@
-import logo from "../../../assets/logo.png"
-import logo1 from "../../../assets/logo1.png"
-import logo2 from "../../../assets/logo2.png"
-import logo3 from "../../../assets/logo3.png"
-import logo4 from "../../../assets/logo4.png"
-import logo5 from "../../../assets/logo5.png"
-import logo6 from "../../../assets/logo6.png"
+import logo from "../../../assets/Logo.png"
+import logo1 from "../../../assets/Logo1.png"
+import logo2 from "../../../assets/Logo2.png"
+import logo3 from "../../../assets/Logo3.png"
+import logo4 from "../../../assets/Logo4.png"
+import logo5 from "../../../assets/Logo5.png"
+import logo6 from "../../../assets/Logo6.png"
 
 
 
